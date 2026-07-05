@@ -1,0 +1,6 @@
+===== Stock Portfolio Summary =====
+
+MSFT | Quantity: 2 | Price: $330 | Investment: $660
+
+---------------------------------------
+Total Investment Value: $660
